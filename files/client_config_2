@@ -1,0 +1,4 @@
+monitoredDirectoryPath=/Users/denissmolov/IdeaProjects/client_server_files/outgoing_files_2
+keyFilteringPattern=^(@)[a-zA-Z]+(_)[0-9]+$
+serverProgramAddress=127.0.0.1
+serverProgramPort=4444

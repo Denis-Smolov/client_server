@@ -1,0 +1,4 @@
+# the location of the directory to which to write the files
+directoryPath=/Users/denissmolov/IdeaProjects/client_server_files/incoming_files
+# what port to listen on
+port=4444
